@@ -21,6 +21,6 @@ The user should be able to:
         
         
  ## App screenshot
-![Capture1](./public/Capture1.jpg)   
+![Capture1](https://github.com/tarazin/Fitness-Tracker/blob/master/public/Capture1.JPG)   
 ![Capture2](./public/Capture2.jpg)
 
