@@ -15,12 +15,12 @@ The user should be able to:
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
   
-  ## Installation
+ ## Installation
 
         npm install 
         
         
-  ### App screenshot
+ ## App screenshot
 ![Capture1](./public/Capture1.jpg)   
 ![Capture2](./public/Capture2.jpg)
 
