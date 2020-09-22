@@ -24,3 +24,6 @@ The user should be able to:
 ![Capture1](https://github.com/tarazin/Fitness-Tracker/blob/master/public/Capture1.JPG)   
 ![Capture2](https://github.com/tarazin/Fitness-Tracker/blob/master/public/Capture2.JPG)
 
+## Deployed App
+https://floating-plains-80501.herokuapp.com/
+
